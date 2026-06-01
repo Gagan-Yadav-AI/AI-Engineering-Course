@@ -1,4 +1,4 @@
-# WEEK 1 – BASIC FOUNDATION (DAY 2)
+# Day 2 – BASIC FOUNDATION
 
 ## Data Science & Data Preparation
 
