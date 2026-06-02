@@ -1,4 +1,4 @@
-# Day 14: Exploratory Data Analysis (EDA) & Descriptive Statistics
+# Day 14: Statistics
 
 ## 1. Introduction to Exploratory Data Analysis (EDA)
 
