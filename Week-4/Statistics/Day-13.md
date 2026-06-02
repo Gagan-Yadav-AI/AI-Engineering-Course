@@ -1,4 +1,4 @@
-# Day 13 – STATISTICS
+# Day 13 – Statistics
 
 ---
 
