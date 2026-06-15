@@ -1,5 +1,3 @@
-Here are **GitHub-ready Markdown notes** for **Week 1 – Day 3 & Day 4**, following the same structured style as your previous notes.
-
 # Day 4 – BASIC FOUNDATION
 
 # INTRODUCTION TO ARTIFICIAL INTELLIGENCE
