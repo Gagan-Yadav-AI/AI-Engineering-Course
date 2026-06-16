@@ -1,4 +1,4 @@
-# Day 22 - MAchine Learning Associate
+# Day 22 | Machine Learning Associate
 
 # NumPy Notes – Arrays and Basic Operations
 
