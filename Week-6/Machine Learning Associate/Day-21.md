@@ -1,4 +1,4 @@
-# Week 6 | Machine Learning Associate
+# Day 21 | Machine Learning Associate
 
 # NumPy, Data Structures & Arrays
 
