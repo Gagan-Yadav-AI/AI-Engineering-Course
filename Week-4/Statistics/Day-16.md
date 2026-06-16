@@ -1,4 +1,4 @@
-# Day 15: Statistic
+# Day 16: Statistic
 
 ---
 
